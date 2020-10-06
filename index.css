@@ -1,0 +1,10 @@
+.hidden{
+    display: none;
+}
+body{
+    display:flex;
+}
+input{
+    margin:20px;
+    align-content: center;
+}
